@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "firebase": "^9.3.0"
+  },
+  "name": "task1-2",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
