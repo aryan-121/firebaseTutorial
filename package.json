@@ -7,6 +7,9 @@
   "main": "script.js",
   "devDependencies": {},
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d build",
+    "build": "gh-pages -b main -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
